@@ -2,8 +2,8 @@
   "name": "vsc",
   "version": "1.0.0",
   "description": "",
-  "main": " node hallerbos.js",
   "scripts": {
+    "start": "node hallerbos.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
